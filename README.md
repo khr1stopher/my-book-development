@@ -41,5 +41,44 @@ guardar herramientas importantes para desarrollar
 # CODE
 ## CSS frameworks
 1. tailwind css
+
+### VUE CSS FRAMEWORKS
+- [headlessui](https://headlessui.com/) `(*)`
+    - use `tailwind`
+    - have few components
+    - gols of how looks is `10/10` looks very good
+    - you can use to replace somethings but no to do everything
+- [quatrochan](https://quatrochan.github.io/Equal/) `(*)`
+    - looks so clear
+    - have standar components
+    - gols of how looks is `6/10` looks very good
+    - you can use to replace somethings but no to do everything
+- [naiveui](https://www.naiveui.com/en-US/dark) `(#1)`
+    - style like google so clear
+    - have many components to everything
+    - gols of how looks is `8/10` pretty good
+    - you can use to do everything in the page
+- [primefaces](https://www.primefaces.org/primevue/) `(#2)`
+    - style like google so clear
+    - have many components to everything
+    - gols of how looks is `7/10` pretty good
+    - you can use to do everything in the page
+- [vuetify](https://next.vuetifyjs.com/en/) `(#3)`
+    - style material design
+    - have many components to everything
+    - gols of how looks is `7/10` no it's bad
+    - you can use to do everything in the page
+- [quasar](https://quasar.dev) `(#4)`
+    - style material design
+    - have many components to everything
+    - gols of how looks is `5/10` no it's bad
+    - you can use to do everything in the page
+- [antdv](https://antdv.com/components/overview) `(#5)`
+    - style material design but it's weird
+    - have many components to everything
+    - gols of how looks is `6/10` no it's bad
+    - you can use to do everything in the page
+# practice-interviews
+- [leetcode](https://leetcode.com/)
 # other
 - [motive phrasals](www.microcopy.me)
